@@ -1,0 +1,29 @@
+{
+    "extends": ["airbnb"],
+    "parser": "babel-eslint",
+    "rules": {
+        "semi": [2, "never"],
+        "comma-dangle": 0,
+        "react/jsx-filename-extension": [
+            1,
+            {
+                "extensions": [".js",".jsx"]
+            }
+        ]
+    },
+    "plugins": ["jest"],
+    "env": {
+        "browser": true,
+        "node": true,
+        "jest/globals": true
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "paths": [
+                    "src"
+                ]
+            }
+        }
+    }
+}
