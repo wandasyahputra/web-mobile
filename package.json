@@ -17,7 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-plugin-jest": "^21.24.1"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
