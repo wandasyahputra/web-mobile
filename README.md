@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 This project create for fullfill assessment from [tokopedia](https://www.tokopedia.com).
 
-Demo of this project can be fine on [here](https://tokpedfraction.herokuapp.com/)
+Demo of this project can be find on [here](https://tokpedfraction.herokuapp.com/)
 
 ## Getting Started
 
